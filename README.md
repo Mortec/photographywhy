@@ -1,6 +1,8 @@
 # photographywhy website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-Dependensies :
-_ Semantic-ui
-_ Super Agent
+
+Dependencies :
+
+- Semantic-ui
+- Super Agent
